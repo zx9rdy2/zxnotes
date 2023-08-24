@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "小饼干手写体";
+  src: url("../CookieHand-Regular.ttf");
+}
+* {
+  font-family: "小饼干手写体";
+}
